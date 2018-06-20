@@ -2,7 +2,7 @@
 插件-重置标签的样式
 
 
-
+![效果](https://github.com/shikunping/images/blob/master/QQ%E5%9B%BE%E7%89%8720180620175620.png)
 
 
 
